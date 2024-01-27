@@ -9,7 +9,7 @@ h1 {
 }
 ul {
   margin: 0;
-  padding: 0;
+  padding: 0 !important;
 }
 li {
   color: rgb(112, 117, 122);
