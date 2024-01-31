@@ -37,3 +37,6 @@ li {
   position: relative;
   top: -34px;
 }
+img {
+  line-height: 64px;
+}
