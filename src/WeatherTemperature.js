@@ -35,7 +35,7 @@ export default function WeatherTemperature(props) {
           <a href="/" onClick={showCelsius}>
             &deg;C
           </a>
-          |{""}&deg;F
+          {""}|{""}&deg;F
         </span>
       </span>
     );
