@@ -21,7 +21,11 @@ li {
   list-style: none;
 }
 .weathersample {
-  border: 1px solid #dadde1;
+  background: radial-gradient(
+    621px at 25.3% 13.8%,
+    rgb(255, 255, 255) 0%,
+    rgb(234, 236, 255) 90%
+  );
   margin: 20px;
   padding: 15px;
   max-width: 600px;
